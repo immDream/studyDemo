@@ -1,0 +1,409 @@
+[INFO] 程序于2021-9-3 23:05:50开始执行
+ 2021-9-3 23:05:50 - OperatingSystem.Windows.main.null
+[INFO] 管理员于2021-9-3 23:05:56开始打开输入文件null
+ 2021-9-3 23:05:56 - OperatingSystem.Windows$openListen.actionPerformed.null
+[INFO] 管理员于2021-9-3 23:05:58文件打开input.in完毕
+ 2021-9-3 23:05:58 - OperatingSystem.Windows$openListen.actionPerformed.null
+[INFO] 管理员于2021-9-3 23:06:03开始执行死锁检测
+ 2021-9-3 23:06:03 - OperatingSystem.Windows$startListen.actionPerformed.null
+[INFO] 管理员于2021-9-3 23:06:03执行死锁检测完毕
+ 2021-9-3 23:06:03 - OperatingSystem.Windows$startListen.actionPerformed.null
+[INFO] 管理员于2021-9-3 23:06:08开始执行进程撤销法(部分)
+ 2021-9-3 23:06:08 - OperatingSystem.Windows$startListen.actionPerformed.null
+[INFO] 管理员于2021-9-3 23:06:08执行进程撤销法(部分)完毕
+ 2021-9-3 23:06:08 - OperatingSystem.Windows$startListen.actionPerformed.null
+[INFO] 管理员于2021-9-3 23:06:11开始执行矩阵保存
+ 2021-9-3 23:06:11 - OperatingSystem.Windows.isStoreMatrix.null
+[INFO] 管理员于2021-9-3 23:06:11保存矩阵完毕
+ 2021-9-3 23:06:11 - OperatingSystem.Windows.isStoreMatrix.null
+[INFO] 程序于2021-9-3 23:06:14执行完毕
+-------------------------------------------------
+ 2021-9-3 23:06:14 - OperatingSystem.Windows$3.windowClosing.null
+我的日志 [INFO] -------------------------------------------------
+程序于2021-9-3 23:11:10开始执行
+ 2021-9-3 23:11:10 - OperatingSystem.Windows.main.class java.lang.Class
+我的日志 [INFO] 管理员于2021-9-3 23:11:13开始打开输入文件null
+ 2021-9-3 23:11:13 - OperatingSystem.Windows$openListen.actionPerformed.class java.lang.Class
+我的日志 [INFO] 管理员于2021-9-3 23:11:16文件打开input.in完毕
+ 2021-9-3 23:11:16 - OperatingSystem.Windows$openListen.actionPerformed.class java.lang.Class
+我的日志 [INFO] 管理员于2021-9-3 23:11:17开始执行死锁检测
+ 2021-9-3 23:11:17 - OperatingSystem.Windows$startListen.actionPerformed.class java.lang.Class
+我的日志 [INFO] 管理员于2021-9-3 23:11:17执行死锁检测完毕
+ 2021-9-3 23:11:17 - OperatingSystem.Windows$startListen.actionPerformed.class java.lang.Class
+我的日志 [INFO] 管理员于2021-9-3 23:11:18开始执行进程撤销法(全部)
+ 2021-9-3 23:11:18 - OperatingSystem.Windows$startListen.actionPerformed.class java.lang.Class
+我的日志 [INFO] 管理员于2021-9-3 23:11:18执行进程撤销法(全部)完毕
+ 2021-9-3 23:11:18 - OperatingSystem.Windows$startListen.actionPerformed.class java.lang.Class
+我的日志 [INFO] 管理员于2021-9-3 23:11:21开始执行矩阵保存
+ 2021-9-3 23:11:21 - OperatingSystem.Windows.isStoreMatrix.class java.lang.Class
+我的日志 [INFO] 管理员于2021-9-3 23:11:21保存矩阵完毕
+ 2021-9-3 23:11:21 - OperatingSystem.Windows.isStoreMatrix.class java.lang.Class
+我的日志 [INFO] 程序于2021-9-3 23:11:23执行完毕
+-------------------------------------------------
+ 2021-9-3 23:11:23 - OperatingSystem.Windows$3.windowClosing.class java.lang.Class
+我的日志 [INFO] -------------------------------------------------
+程序于2021-9-3 23:12:37开始执行
+ 2021-9-3 23:12:37 - OperatingSystem.Windows.main.class java.lang.String
+我的日志 [INFO] 管理员于2021-9-3 23:12:42开始打开输入文件null
+ 2021-9-3 23:12:42 - OperatingSystem.Windows$openListen.actionPerformed.class java.lang.String
+我的日志 [INFO] 管理员于2021-9-3 23:12:44文件打开input.in完毕
+ 2021-9-3 23:12:44 - OperatingSystem.Windows$openListen.actionPerformed.class java.lang.String
+我的日志 [INFO] 管理员于2021-9-3 23:12:47开始执行死锁检测
+ 2021-9-3 23:12:47 - OperatingSystem.Windows$startListen.actionPerformed.class java.lang.String
+我的日志 [INFO] 管理员于2021-9-3 23:12:47执行死锁检测完毕
+ 2021-9-3 23:12:47 - OperatingSystem.Windows$startListen.actionPerformed.class java.lang.String
+我的日志 [INFO] 管理员于2021-9-3 23:12:47开始执行进程撤销法(全部)
+ 2021-9-3 23:12:47 - OperatingSystem.Windows$startListen.actionPerformed.class java.lang.String
+我的日志 [INFO] 管理员于2021-9-3 23:12:47执行进程撤销法(全部)完毕
+ 2021-9-3 23:12:47 - OperatingSystem.Windows$startListen.actionPerformed.class java.lang.String
+我的日志 [INFO] 程序于2021-9-3 23:12:48执行完毕
+-------------------------------------------------
+ 2021-9-3 23:12:48 - OperatingSystem.Windows$3.windowClosing.class java.lang.String
+我的日志 [INFO] -------------------------------------------------
+程序于2021-9-3 23:14:02开始执行
+ 2021-9-3 23:14:02 - OperatingSystem.Windows.main.null
+我的日志 [INFO] 管理员于2021-9-3 23:14:07开始打开输入文件null
+ 2021-9-3 23:14:07 - OperatingSystem.Windows$openListen.actionPerformed.null
+我的日志 [INFO] 管理员于2021-9-3 23:14:08文件打开input.in完毕
+ 2021-9-3 23:14:08 - OperatingSystem.Windows$openListen.actionPerformed.null
+我的日志 [INFO] 管理员于2021-9-3 23:14:10开始执行死锁检测
+ 2021-9-3 23:14:10 - OperatingSystem.Windows$startListen.actionPerformed.null
+我的日志 [INFO] 管理员于2021-9-3 23:14:10执行死锁检测完毕
+ 2021-9-3 23:14:10 - OperatingSystem.Windows$startListen.actionPerformed.null
+我的日志 [INFO] 管理员于2021-9-3 23:14:11开始执行进程撤销法(全部)
+ 2021-9-3 23:14:11 - OperatingSystem.Windows$startListen.actionPerformed.null
+我的日志 [INFO] 管理员于2021-9-3 23:14:11执行进程撤销法(全部)完毕
+ 2021-9-3 23:14:11 - OperatingSystem.Windows$startListen.actionPerformed.null
+我的日志 [INFO] 程序于2021-9-3 23:14:16执行完毕
+-------------------------------------------------
+ 2021-9-3 23:14:16 - OperatingSystem.Windows$3.windowClosing.null
+我的日志 [INFO] -------------------------------------------------
+程序于2021-9-4 8:20:16开始执行
+ 2021-9-4 8:20:17 - OperatingSystem.Windows.main
+我的日志 [INFO] 程序于2021-9-4 8:20:25执行完毕
+-------------------------------------------------
+ 2021-9-4 8:20:25 - OperatingSystem.Windows$3.windowClosing
+
+我的日志 [INFO]
+ -------------------------------------------------
+程序于2021-9-4 8:21:16开始执行
+ 2021-9-4 8:21:16 - OperatingSystem.Windows.main
+
+我的日志 [INFO]
+ 程序于2021-9-4 8:21:19执行完毕
+-------------------------------------------------
+ 2021-9-4 8:21:19 - OperatingSystem.Windows$3.windowClosing
+
+我的日志 [INFO]
+-------------------------------------------------
+程序于2021-9-4 10:03:57开始执行
+ 2021-9-4 10:03:57 - OperatingSystem.Windows.main
+
+我的日志 [INFO]
+管理员于2021-9-4 10:04:00开始打开输入文件null
+ 2021-9-4 10:04:00 - OperatingSystem.Windows$openListen.actionPerformed
+
+我的日志 [INFO]
+管理员于2021-9-4 10:04:02文件打开input.in完毕
+ 2021-9-4 10:04:02 - OperatingSystem.Windows$openListen.actionPerformed
+
+我的日志 [INFO]
+管理员于2021-9-4 10:04:04开始执行银行家算法
+ 2021-9-4 10:04:04 - OperatingSystem.Windows$startListen.actionPerformed
+
+我的日志 [INFO]
+管理员于2021-9-4 10:04:04执行银行家算法完毕
+ 2021-9-4 10:04:04 - OperatingSystem.Windows$startListen.actionPerformed
+
+我的日志 [INFO]
+程序于2021-9-4 10:04:14执行完毕
+-------------------------------------------------
+ 2021-9-4 10:04:14 - OperatingSystem.Windows$3.windowClosing
+
+我的日志 [INFO]
+-------------------------------------------------
+程序于2021-9-4 10:08:37开始执行
+ 2021-9-4 10:08:37 - OperatingSystem.Windows.main
+
+我的日志 [INFO]
+管理员于2021-9-4 10:08:40开始打开输入文件null
+ 2021-9-4 10:08:40 - OperatingSystem.Windows$openListen.actionPerformed
+
+我的日志 [INFO]
+管理员于2021-9-4 10:08:42文件打开input.in完毕
+ 2021-9-4 10:08:42 - OperatingSystem.Windows$openListen.actionPerformed
+
+我的日志 [INFO]
+管理员于2021-9-4 10:08:44开始执行银行家算法
+ 2021-9-4 10:08:44 - OperatingSystem.Windows$startListen.actionPerformed
+
+我的日志 [INFO]
+管理员于2021-9-4 10:08:44执行银行家算法完毕
+ 2021-9-4 10:08:44 - OperatingSystem.Windows$startListen.actionPerformed
+
+我的日志 [INFO]
+管理员于2021-9-4 10:09:03开始执行死锁检测
+ 2021-9-4 10:09:03 - OperatingSystem.Windows$startListen.actionPerformed
+
+我的日志 [INFO]
+管理员于2021-9-4 10:09:03执行死锁检测完毕
+ 2021-9-4 10:09:03 - OperatingSystem.Windows$startListen.actionPerformed
+
+我的日志 [INFO]
+管理员于2021-9-4 10:09:07开始执行进程撤销法(部分)
+ 2021-9-4 10:09:07 - OperatingSystem.Windows$startListen.actionPerformed
+
+我的日志 [INFO]
+管理员于2021-9-4 10:09:07执行进程撤销法(部分)完毕
+ 2021-9-4 10:09:07 - OperatingSystem.Windows$startListen.actionPerformed
+
+我的日志 [INFO]
+程序于2021-9-4 10:09:22执行完毕
+-------------------------------------------------
+ 2021-9-4 10:09:22 - OperatingSystem.Windows$3.windowClosing
+
+我的日志 [INFO]
+-------------------------------------------------
+程序于2021-9-4 10:10:44开始执行
+ 2021-9-4 10:10:45 - OperatingSystem.Windows.main
+
+我的日志 [INFO]
+管理员于2021-9-4 10:10:49开始打开输入文件null
+ 2021-9-4 10:10:49 - OperatingSystem.Windows$openListen.actionPerformed
+
+我的日志 [INFO]
+管理员于2021-9-4 10:10:53文件打开input.in完毕
+ 2021-9-4 10:10:53 - OperatingSystem.Windows$openListen.actionPerformed
+
+我的日志 [INFO]
+管理员于2021-9-4 10:10:55开始执行死锁检测
+ 2021-9-4 10:10:55 - OperatingSystem.Windows$startListen.actionPerformed
+
+我的日志 [INFO]
+管理员于2021-9-4 10:10:55执行死锁检测完毕
+ 2021-9-4 10:10:55 - OperatingSystem.Windows$startListen.actionPerformed
+
+我的日志 [INFO]
+管理员于2021-9-4 10:10:59开始执行进程撤销法(部分)
+ 2021-9-4 10:10:59 - OperatingSystem.Windows$startListen.actionPerformed
+
+我的日志 [INFO]
+管理员于2021-9-4 10:10:59执行进程撤销法(部分)完毕
+ 2021-9-4 10:10:59 - OperatingSystem.Windows$startListen.actionPerformed
+
+我的日志 [INFO]
+程序于2021-9-4 10:11:14执行完毕
+-------------------------------------------------
+ 2021-9-4 10:11:14 - OperatingSystem.Windows$3.windowClosing
+
+我的日志 [INFO]
+-------------------------------------------------
+程序于2021-9-4 10:11:27开始执行
+ 2021-9-4 10:11:27 - OperatingSystem.Windows.main
+
+我的日志 [INFO]
+管理员于2021-9-4 10:11:29开始打开输入文件null
+ 2021-9-4 10:11:29 - OperatingSystem.Windows$openListen.actionPerformed
+
+我的日志 [INFO]
+管理员于2021-9-4 10:11:31文件打开input.in完毕
+ 2021-9-4 10:11:31 - OperatingSystem.Windows$openListen.actionPerformed
+
+我的日志 [INFO]
+管理员于2021-9-4 10:11:35开始执行进程撤销法(部分)
+ 2021-9-4 10:11:35 - OperatingSystem.Windows$startListen.actionPerformed
+
+我的日志 [INFO]
+管理员于2021-9-4 10:11:35执行进程撤销法(部分)完毕
+ 2021-9-4 10:11:35 - OperatingSystem.Windows$startListen.actionPerformed
+
+我的日志 [INFO]
+管理员于2021-9-4 10:11:38开始执行死锁检测
+ 2021-9-4 10:11:38 - OperatingSystem.Windows$startListen.actionPerformed
+
+我的日志 [INFO]
+管理员于2021-9-4 10:11:38执行死锁检测完毕
+ 2021-9-4 10:11:38 - OperatingSystem.Windows$startListen.actionPerformed
+
+我的日志 [INFO]
+管理员于2021-9-4 10:11:46开始执行进程撤销法(部分)
+ 2021-9-4 10:11:46 - OperatingSystem.Windows$startListen.actionPerformed
+
+我的日志 [INFO]
+管理员于2021-9-4 10:11:46执行进程撤销法(部分)完毕
+ 2021-9-4 10:11:46 - OperatingSystem.Windows$startListen.actionPerformed
+
+我的日志 [INFO]
+程序于2021-9-4 10:11:52执行完毕
+-------------------------------------------------
+ 2021-9-4 10:11:52 - OperatingSystem.Windows$3.windowClosing
+
+我的日志 [INFO]
+-------------------------------------------------
+程序于2021-9-4 10:33:00开始执行
+ 2021-9-4 10:33:00 - OperatingSystem.Windows.main
+
+我的日志 [INFO]
+程序于2021-9-4 10:33:06执行完毕
+-------------------------------------------------
+ 2021-9-4 10:33:06 - OperatingSystem.Windows$3.windowClosing
+
+我的日志 [INFO]
+-------------------------------------------------
+程序于2021-9-5 21:22:19开始执行
+ 2021-9-5 21:22:19 - OperatingSystem.Windows.main
+
+我的日志 [INFO]
+管理员于2021-9-5 21:27:54开始打开输入文件null
+ 2021-9-5 21:27:54 - OperatingSystem.Windows$openListen.actionPerformed
+
+我的日志 [INFO]
+管理员于2021-9-5 21:27:56文件打开input.in完毕
+ 2021-9-5 21:27:56 - OperatingSystem.Windows$openListen.actionPerformed
+
+我的日志 [INFO]
+管理员于2021-9-5 21:28:25开始执行死锁检测
+ 2021-9-5 21:28:25 - OperatingSystem.Windows$startListen.actionPerformed
+
+我的日志 [INFO]
+管理员于2021-9-5 21:28:25执行死锁检测完毕
+ 2021-9-5 21:28:25 - OperatingSystem.Windows$startListen.actionPerformed
+
+我的日志 [INFO]
+管理员于2021-9-5 21:28:29开始执行死锁检测
+ 2021-9-5 21:28:29 - OperatingSystem.Windows$startListen.actionPerformed
+
+我的日志 [INFO]
+管理员于2021-9-5 21:28:29执行死锁检测完毕
+ 2021-9-5 21:28:29 - OperatingSystem.Windows$startListen.actionPerformed
+
+我的日志 [INFO]
+管理员于2021-9-5 21:28:33开始执行进程撤销法(部分)
+ 2021-9-5 21:28:33 - OperatingSystem.Windows$startListen.actionPerformed
+
+我的日志 [INFO]
+管理员于2021-9-5 21:28:33执行进程撤销法(部分)完毕
+ 2021-9-5 21:28:33 - OperatingSystem.Windows$startListen.actionPerformed
+
+我的日志 [INFO]
+管理员于2021-9-5 21:28:37开始执行银行家算法
+ 2021-9-5 21:28:37 - OperatingSystem.Windows$startListen.actionPerformed
+
+我的日志 [INFO]
+管理员于2021-9-5 21:28:37执行银行家算法完毕
+ 2021-9-5 21:28:37 - OperatingSystem.Windows$startListen.actionPerformed
+
+我的日志 [INFO]
+管理员于2021-9-5 21:29:08开始执行文件保存
+ 2021-9-5 21:29:08 - OperatingSystem.Windows.isStoreFile
+
+我的日志 [INFO]
+管理员于2021-9-5 21:29:08保存文件完毕
+ 2021-9-5 21:29:08 - OperatingSystem.Windows.isStoreFile
+
+我的日志 [INFO]
+程序于2021-9-5 21:29:15执行完毕
+-------------------------------------------------
+ 2021-9-5 21:29:15 - OperatingSystem.Windows$3.windowClosing
+
+我的日志 [INFO]
+-------------------------------------------------
+程序于2021-9-5 21:39:35开始执行
+ 2021-9-5 21:39:36 - OperatingSystem.Windows.main
+
+我的日志 [INFO]
+管理员于2021-9-5 21:39:40开始打开输入文件null
+ 2021-9-5 21:39:40 - OperatingSystem.Windows$openListen.actionPerformed
+
+我的日志 [INFO]
+管理员于2021-9-5 21:39:42文件打开input.in完毕
+ 2021-9-5 21:39:42 - OperatingSystem.Windows$openListen.actionPerformed
+
+我的日志 [INFO]
+管理员于2021-9-5 21:39:45开始执行死锁检测
+ 2021-9-5 21:39:45 - OperatingSystem.Windows$startListen.actionPerformed
+
+我的日志 [INFO]
+管理员于2021-9-5 21:39:45执行死锁检测完毕
+ 2021-9-5 21:39:45 - OperatingSystem.Windows$startListen.actionPerformed
+
+我的日志 [INFO]
+管理员于2021-9-5 21:39:49开始执行进程撤销法(全部)
+ 2021-9-5 21:39:49 - OperatingSystem.Windows$startListen.actionPerformed
+
+我的日志 [INFO]
+管理员于2021-9-5 21:39:49执行进程撤销法(全部)完毕
+ 2021-9-5 21:39:49 - OperatingSystem.Windows$startListen.actionPerformed
+
+我的日志 [INFO]
+管理员于2021-9-5 21:40:09开始执行矩阵保存
+ 2021-9-5 21:40:09 - OperatingSystem.Windows.isStoreMatrix
+
+我的日志 [INFO]
+管理员于2021-9-5 21:40:09保存矩阵完毕
+ 2021-9-5 21:40:09 - OperatingSystem.Windows.isStoreMatrix
+
+我的日志 [INFO]
+程序于2021-9-5 21:40:13执行完毕
+-------------------------------------------------
+ 2021-9-5 21:40:13 - OperatingSystem.Windows$3.windowClosing
+
+我的日志 [INFO]
+-------------------------------------------------
+程序于2021-9-5 21:40:17开始执行
+ 2021-9-5 21:40:18 - OperatingSystem.Windows.main
+
+我的日志 [INFO]
+管理员于2021-9-5 21:40:20开始打开输入文件null
+ 2021-9-5 21:40:20 - OperatingSystem.Windows$openListen.actionPerformed
+
+我的日志 [INFO]
+管理员于2021-9-5 21:40:22文件打开input.in完毕
+ 2021-9-5 21:40:22 - OperatingSystem.Windows$openListen.actionPerformed
+
+我的日志 [INFO]
+管理员于2021-9-5 21:40:23开始执行死锁检测
+ 2021-9-5 21:40:23 - OperatingSystem.Windows$startListen.actionPerformed
+
+我的日志 [INFO]
+管理员于2021-9-5 21:40:23执行死锁检测完毕
+ 2021-9-5 21:40:23 - OperatingSystem.Windows$startListen.actionPerformed
+
+我的日志 [INFO]
+管理员于2021-9-5 21:40:24开始执行进程撤销法(全部)
+ 2021-9-5 21:40:24 - OperatingSystem.Windows$startListen.actionPerformed
+
+我的日志 [INFO]
+管理员于2021-9-5 21:40:24执行进程撤销法(全部)完毕
+ 2021-9-5 21:40:24 - OperatingSystem.Windows$startListen.actionPerformed
+
+我的日志 [INFO]
+管理员于2021-9-5 21:40:27开始执行银行家算法
+ 2021-9-5 21:40:27 - OperatingSystem.Windows$startListen.actionPerformed
+
+我的日志 [INFO]
+管理员于2021-9-5 21:40:27执行银行家算法完毕
+ 2021-9-5 21:40:27 - OperatingSystem.Windows$startListen.actionPerformed
+
+我的日志 [INFO]
+管理员于2021-9-5 21:40:32开始执行矩阵保存
+ 2021-9-5 21:40:32 - OperatingSystem.Windows.isStoreMatrix
+
+我的日志 [INFO]
+管理员于2021-9-5 21:40:32保存矩阵完毕
+ 2021-9-5 21:40:32 - OperatingSystem.Windows.isStoreMatrix
+
+我的日志 [INFO]
+程序于2021-9-5 21:40:33执行完毕
+-------------------------------------------------
+ 2021-9-5 21:40:33 - OperatingSystem.Windows$3.windowClosing
+
+我的日志 [INFO]
+-------------------------------------------------
+程序于2021-9-11 9:16:06开始执行
+ 2021-9-11 9:16:06 - OperatingSystem.Windows.main
+
+我的日志 [INFO]
+程序于2021-9-11 9:16:14执行完毕
+-------------------------------------------------
+ 2021-9-11 9:16:14 - OperatingSystem.Windows$3.windowClosing
